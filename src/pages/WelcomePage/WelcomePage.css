@@ -1,0 +1,13 @@
+.page-main{
+    width: 25%;
+    padding: 1rem;
+    background-color: #fbfbf9;
+    height: 95vh;
+    display: flex;
+    flex-direction: column-reverse; 
+}
+.page-main-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

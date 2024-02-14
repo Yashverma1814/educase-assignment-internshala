@@ -1,0 +1,17 @@
+.page-main-acc{
+    width: 25%;
+    /* padding-left: 1rem; */
+    background-color: #fbfbf9;
+    height: 95vh;
+}
+.page-main-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page-heading{
+    background-color: white;
+    padding: 1px;
+    border:0.1px solid rgb(225, 224, 224);
+    padding-left: 1rem;
+}

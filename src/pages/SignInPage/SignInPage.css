@@ -1,0 +1,11 @@
+.page-main-signin{
+    width: 25%;
+    padding: 1rem;
+    background-color: #fbfbf9;
+    height: 95vh;
+}
+.page-main-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
